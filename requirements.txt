@@ -1,0 +1,12 @@
+mysql-connector-python
+langchain
+python-dotenv
+langchain-groq
+langgraph
+langchain-community
+langchain-huggingface
+faiss-cpu
+pypdf
+sentence-transformers
+streamlit
+google-genai
